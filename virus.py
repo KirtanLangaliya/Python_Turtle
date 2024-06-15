@@ -15,7 +15,7 @@ while True:
     turtle.right(b)
     a+=3
     b+=1
-    if b== 300:
+    if b== 200:
         turtle.done()
         break
     turtle.hideturtle()
